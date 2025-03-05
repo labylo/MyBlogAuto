@@ -1,3 +1,5 @@
 /LocalSettings.php
 
-/www/img/ilu/
+/www/img/ilu/*
+!/www/img/ilu/.gitkeep
+
