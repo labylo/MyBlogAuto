@@ -4,7 +4,7 @@
 	<div class="cell large-8 medium-7 small-12">
 		<div class="bloc">
 			<div class="bloc_titre">
-				<h2><span>Derniers Articles XXX22</span></h2>
+				<h2><span>Derniers Articles XXX22 33</span></h2>
 			</div>
 			
 			<?php 
